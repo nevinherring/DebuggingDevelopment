@@ -1,0 +1,10 @@
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter04/Chapter04.code-workspace/Debugging/bin/Debug/net5.0/Debugging.deps.json
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter04/Chapter04.code-workspace/Debugging/obj/Debug/net5.0/Debugging.csprojAssemblyReference.cache
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter04/Chapter04.code-workspace/Debugging/obj/Debug/net5.0/Debugging.GeneratedMSBuildEditorConfig.editorconfig
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter04/Chapter04.code-workspace/Debugging/obj/Debug/net5.0/Debugging.AssemblyInfoInputs.cache
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter04/Chapter04.code-workspace/Debugging/obj/Debug/net5.0/Debugging.AssemblyInfo.cs
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter04/Chapter04.code-workspace/Debugging/obj/Debug/net5.0/Debugging.csproj.CoreCompileInputs.cache
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter04/Chapter04.code-workspace/Debugging/obj/Debug/net5.0/Debugging.dll
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter04/Chapter04.code-workspace/Debugging/obj/Debug/net5.0/ref/Debugging.dll
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter04/Chapter04.code-workspace/Debugging/obj/Debug/net5.0/Debugging.pdb
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter04/Chapter04.code-workspace/Debugging/obj/Debug/net5.0/Debugging.genruntimeconfig.cache
