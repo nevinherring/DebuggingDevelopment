@@ -8,3 +8,8 @@
 /Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter04/Chapter04.code-workspace/Debugging/obj/Debug/net5.0/ref/Debugging.dll
 /Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter04/Chapter04.code-workspace/Debugging/obj/Debug/net5.0/Debugging.pdb
 /Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter04/Chapter04.code-workspace/Debugging/obj/Debug/net5.0/Debugging.genruntimeconfig.cache
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter04/Chapter04.code-workspace/Debugging/bin/Debug/net5.0/Debugging.runtimeconfig.json
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter04/Chapter04.code-workspace/Debugging/bin/Debug/net5.0/Debugging.runtimeconfig.dev.json
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter04/Chapter04.code-workspace/Debugging/bin/Debug/net5.0/Debugging.dll
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter04/Chapter04.code-workspace/Debugging/bin/Debug/net5.0/ref/Debugging.dll
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter04/Chapter04.code-workspace/Debugging/bin/Debug/net5.0/Debugging.pdb
